@@ -60,6 +60,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
 - [Stack Exchange](https://stackexchange.com/) : Stack Exchange is the combination of Stack Overflow and 170+ sites where you can get any kinds of help
 - [Coderanch](https://coderanch.com/) : A friendly place for programming greenhorns. Jump straight into any of our topics and light hearted discussions. Ranging from Java, Databases, Android, Programmer certification, Programming jobs and much more...
+- [Reddit](https://www.reddit.com/) : Various subreddits are dedicated to different programming languages, technologies, and topics. You can ask questions and engage in discussions.
+- [Dev.to](https://dev.to/) : A community of programmers and developers where you can share your knowledge, ask questions, and discuss various tech-related topics.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
